@@ -2,6 +2,14 @@ body {
   background: #232323;
 }
 
+h1 {
+  color: white;
+}
+
+span {
+  color: white;
+}
+
 .square {
   width: 30%;
   background: purple;
@@ -13,8 +21,4 @@ body {
 #container {
   margin: 0 auto;
   max-width: 600px;
-}
-
-h1 {
-  color: white;
 }
